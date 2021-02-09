@@ -11,19 +11,16 @@ description: Steps for lanching your startup product.
 Focus on building a list of people interested in your product idea. You don’t need a fancy solution here, an Excel or Google sheet will do. List down email addresses, LinkedIn profiles, phone numbers, etc…
 
 ### LAUNCH ON PRODUCTHUNT AND SIMILAR PLATFORMS
-As soon as you launch on ProductHunt, send traffic to it. You can achieve this if you already have a pre launch list – send a message or email and request them to upvote
-it, or interact with your listing on ProductHunt.
+As soon as you launch on ProductHunt, send traffic to it. You can achieve this if you already have a pre launch list – send a message or email and request them to upvote it, or interact with your listing on ProductHunt.
 
 ### USE REFERRAL MARKETING
 Referrals from friends and family convert much faster. This tactic has been used effectively by the likes of Uber and Airbnb. Referrals can also be incentivised with discounts.
 
 ### LEVERAGE SOCIAL MEDIA
-Build a community around your brand or problem you are
-trying to solve. Offer meaningful help to the people in that community and check the community rules before broadcasting your product.
+Build a community around your brand or problem you are trying to solve. Offer meaningful help to the people in that community and check the community rules before broadcasting your product.
 
 ### HACK EVENTS
-Attend industry events, conferences and seminars. Get the list
-of attendees and market to them on LinkedIn, Facebook, Twitter, or contact them personally on one of those platforms.
+Attend industry events, conferences and seminars. Get the list of attendees and market to them on LinkedIn, Facebook, Twitter, or contact them personally on one of those platforms.
 
 ### LEVERAGE PARTNERSHIPS
 Think about what other non-competing products your customer uses. Contact those companies and ask to partner with them by reciprocally sending and receiving some traffic (could be as simple as a Tweet).
