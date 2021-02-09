@@ -21,7 +21,7 @@ Referrals from friends and family convert much faster. This tactic has been used
 Build a community around your brand or problem you are
 trying to solve. Offer meaningful help to the people in that community and check the community rules before broadcasting your product.
 
-## HACK EVENTS
+### HACK EVENTS
 Attend industry events, conferences and seminars. Get the list
 of attendees and market to them on LinkedIn, Facebook, Twitter, or contact them personally on one of those platforms.
 
