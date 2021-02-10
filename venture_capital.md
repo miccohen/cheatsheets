@@ -4,9 +4,10 @@ Key terms you'll need to know if you want to raise capital for your startup
 ### Convertible note
 A convertible note is a financial structure that VCs use to invest in a company. A convertible note is a loan whose outstanding value converts into equity for the VC at a later date. 
 
-Convertible notes are usually used during seed rounds, if at all, because they allow companies to delay valuation talks until a later fundraising round (usually Series A). Per SeedInvest:
+Convertible notes are usually used during seed rounds, if at all, because they allow companies to delay valuation talks until a later fundraising round (usually Series A). 
 
-“The primary advantage of issuing convertible notes is that it does not force the issuer and investors to determine the value of the company when there really might not be much to base a valuation on--in some cases the company may just be an idea. That valuation will usually be determined during the Series A financing, when there are more data points off which to base a valuation.”
+Per SeedInvest:
+"The primary advantage of issuing convertible notes is that it does not force the issuer and investors to determine the value of the company when there really might not be much to base a valuation on--in some cases the company may just be an idea. That valuation will usually be determined during the Series A financing, when there are more data points off which to base a valuation.”
  
 
 ### Safe
@@ -18,10 +19,9 @@ In seed-round VC deals, equity most often refers to the amount of ownership each
  
 
 ### Preferred stock
-Preferred stock is a type of “security” that delivers VCs their “equity” (aka ownership) of a company. Preferred stock is a special type of stock that entitles the holder to receive a fixed amount of money after a company exit and to receive that money before the other “common” shareholders get theirs, thus the related term “preferential return."
+Preferred stock is a type of “security” that delivers VCs their “equity” (aka ownership) of a company. Preferred stock is a special type of stock that entitles the holder to receive a fixed amount of money after a company exit and to receive that money before the other “common” shareholders get theirs, thus the related term “preferential return." VCs love to receive their securities in the form of preferred stock. 
 
-VCs love to receive their securities in the form of preferred stock. Per Investopedia:
-
+Per Investopedia:
 “Preferred stock combines features of debt, in that it pays fixed dividends, and equity, in that it has the potential to appreciate in price.”
  
 
@@ -37,8 +37,9 @@ When negotiating a term sheet, “voting rights” usually refers to the questio
  
 
 ### Board composition
-This refers to the balance of “founder-friendly” and “VC-friendly" individuals on your company’s board. Your first term sheet is likely to allocate at least one board seat to someone from the VC firm. According to VentureBeat:
+This refers to the balance of “founder-friendly” and “VC-friendly" individuals on your company’s board. Your first term sheet is likely to allocate at least one board seat to someone from the VC firm. 
 
+According to VentureBeat:
 “After your initial seed round, you’ll usually have to allocate a board seat to the firm or person who led that seed round. To ensure that the founding team still remains in control of the board, a fairly typical setup at this stage would be for the common stockholders (i.e. the founders) to retain two board seats and your new investor to have one seat.”
 
  
