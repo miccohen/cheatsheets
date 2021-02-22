@@ -1,5 +1,5 @@
 ---
-title: Best remote job boards
+title: Best Remote Job Boards
 category: engineer
 intro: Remote job boards for engineers, developers & more.
 keywords:
