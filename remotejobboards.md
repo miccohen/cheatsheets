@@ -29,6 +29,8 @@ Here's a list of diverse job boards:
 - [PowerToFly](https://powertofly.com/) _Diverse women-led community_
 - [JopWell](https://www.jopwell.com/) _We represent and advance careers of black, latino & native american professionals_
 - [RemotePOC](https://remotepoc.com/) _Community of remote professionals of color_
+- [POCIT](https://www.pocitjobs.com/) _People of color in tech_
+- [Elpha](https://elpha.com/) _Where women build our careers_
 
 
 
