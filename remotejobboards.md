@@ -15,7 +15,7 @@ keywords:
 ### Diverse remote job boards
 {: .-intro}
 
-Here's a list of diverse job boards:
+Here's a list of popular job boards:
 - [RemoteOK](https://remoteok.io/) _Work anywhere, live anywhere_
 - [WeWorkRemotely](https://weworkremotely.com/) _Large remote job board_
 - [Flexjobs](https://www.jopwell.com/) _PAID Flexible jobs_
