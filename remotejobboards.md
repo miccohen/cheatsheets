@@ -18,7 +18,7 @@ keywords:
 Here's a list of popular job boards:
 - [RemoteOK](https://remoteok.io/) _Work anywhere, live anywhere_
 - [WeWorkRemotely](https://weworkremotely.com/) _Large remote job board_
-- [Flexjobs](https://www.jopwell.com/) _PAID Flexible jobs_
+- [Flexjobs](https://www.jopwell.com/) _Flexible jobs (may cost money)_
 
 
 ### Diverse remote job boards
