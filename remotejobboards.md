@@ -12,7 +12,7 @@ keywords:
 {: .-two-column}
 
 
-### Diverse remote job boards
+### Popular remote job boards
 {: .-intro}
 
 Here's a list of popular job boards:
