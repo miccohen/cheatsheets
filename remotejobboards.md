@@ -16,11 +16,11 @@ keywords:
 {: .-intro}
 
 Here's a list of diverse job boards:
+- [RemoteWoman](https://remotewoman.com/) _Best remote jobs at female friendly companies_
+- [PowerToFly](https://powertofly.com/) _Diverse women-led community_
+- [JopWell](https://www.jopwell.com/) _We represent and advance careers of black, latino & native american professionals_
+- [RemotePOC](https://remotepoc.com/) _Community of remote professionals of color_
 
-- RemoteWoman.com
-- PowerToFly.com
-- Jopwell.com
-- RemotePOC.com
 
 
 ### What's markdown?
