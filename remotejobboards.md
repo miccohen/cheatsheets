@@ -36,12 +36,4 @@ Here's a list of diverse job boards:
 
 
 
-### What's markdown?
-{: .-intro}
-
-Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents.
-
-- [Mastering markdown](https://guides.github.com/features/mastering-markdown/) _guides.github.com_
-
-
 
