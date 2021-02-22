@@ -12,12 +12,16 @@ keywords:
 {: .-two-column}
 
 
-### How does it work?
+### Diverse remote job boards
 {: .-intro}
 
-Basically, you create your cheat sheet as markdown files, saved on Github.
+Here's a list of diverse job boards:
 
-CheatCheetah generates the good looking version and makes them available to anyone! 🤩
+- RemoteWoman.com
+- PowerToFly.com
+- Jopwell.com
+- RemotePOC.com
+
 
 ### What's markdown?
 {: .-intro}
