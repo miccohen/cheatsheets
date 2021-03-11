@@ -124,7 +124,6 @@ Place the following in `<head>` section to indicate preferred URL:
 ```html
  <link href="https://example.com/" rel="canonical" />
 ```
-More information at: [mz.cm/canonical](mz.cm/canonical)
 
 ## Robots Control Syntax
 
@@ -136,21 +135,18 @@ User-agent: googlebot
 Disallow: /example.html
 Sitemap: https://example.com/sitemap.xml
 ```
-More information at [mz.cm/robotstxt](mz.cm/robotstxt)
 
 ### `X-Robots`
 Location: Sent in the HTTP headers
 ```text
 X-Robots-Tag: noindex
 ```
-More information at [mz.cm/x-robots](mz.cm/x-robots)
 
 ### `Meta Robots`
 Location: In the HTML `<head>`
 ```html
 <meta name="robots" content="[PARAMETER]" />
 ```
-More information at [mz.cm/x-robots](mz.cm/x-robots)
 
 ### Robots Best Practices
 - Only Meta Robots and X-Robots-Tag remove URLs from search results
@@ -351,8 +347,6 @@ Review stars won’t show up in search results.
 - Recipes
 - QApage
 
-More information at [mz.cm/rich-snippets](mz.cm/rich-snippets)
-
 ## Page Speed
 
 ### Page Speed Tips
@@ -382,7 +376,7 @@ The most common culprit of poor page speed is images!
 - Explore lazy loading
 - Leverage SRCSET for different screen sizes
 - Ensure that your images have alt text
-- Invest in automated tools that can help ensure your image assets will always be optimized (example: [mz.cm/imageopt])
+- Invest in automated tools that can help ensure your image assets will always be optimized
 
 ## Modern JavaScript Sites
 
